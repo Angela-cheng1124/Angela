@@ -121,6 +121,10 @@ section#contact {
 }
 section#contact .contactimg {
   width: 100%;
+  background-image: url("https://i.postimg.cc/0NqZhKKx/IMG-8113.jpg");
+}
+section#contact .contactimg {
+  background-size: cover;
 }
 section#contact .contact {
   background-color: rgba(0, 0, 0, 0.03);
